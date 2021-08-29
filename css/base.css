@@ -1,4 +1,11 @@
 :root {
+	--gray-3: #333;
+    --gray-6: #666;
+    --gray-9: #999;
+    --gray-c: #ccc;
+    --gray-d: #ddd;
+    --gray-e: #eee;
+	
     --size-0: 10px;
     --size-1: 12px;
     --size-2: 14px;
